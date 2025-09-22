@@ -15,3 +15,6 @@ Le cours & l'énnoncé ce trouve en PDF à la racine du projet : 2526_cours1_fon
 Il faut installé go au préalable (j'ai utilisé go 1.22), ensuite clonez le projet via git clone https://github.com/LoloxDev/GoProject/ .
 
 Ensuite, éxecutez la commande go run . pour run le CRM.
+
+
+<img width="1046" height="341" alt="logo_efrei_web_bleu" src="https://github.com/user-attachments/assets/f8838509-0eaa-4f0d-89dc-f55e59cb8c79" />
