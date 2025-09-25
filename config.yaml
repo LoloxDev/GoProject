@@ -1,0 +1,10 @@
+storage:
+  type: memory
+
+  gorm:
+    path: data/crm.db
+
+  json:
+    path: data/contacts.json
+
+  memory: {}
